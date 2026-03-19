@@ -2,7 +2,7 @@
 
 # Configuration
 set -a
-source .env
+source /home/romain/projects/dyndns/.env
 set +a
 
 # Obtenir l'adresse IP publique actuelle
